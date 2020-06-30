@@ -1,0 +1,14 @@
+{
+  "name": "analytical_task",
+  "version": "1.0.0",
+  "description": "Four players [P1, P2, P3 and P4] need to occupy any four cells in a 4x4",
+  "main": "index.js",
+  "scripts": {
+    "get-results": "mocha src/*.spec.js --timeout 20000"
+  },
+  "author": "Evgeniy Rudenko",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
