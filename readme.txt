@@ -8,7 +8,9 @@ C41, C42, C43, C44
 What are the possible combinations of player position on this grid cells to satisfy above conditions.
 
 
-
+To run please install:
+ - Node 10 or higher 
+ 
 To get all combinations:
 Run the script "get-results" from package.json OR
 Run in terminal, gitBash or console: 
