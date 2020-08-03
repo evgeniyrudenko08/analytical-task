@@ -29,7 +29,7 @@ const getLastNumberOfDigit = n => {
     return parseInt(digit);
 }
 async function randomItem(array) {
-    return await array[Math.floor(Math.random() * array.length)]
+    return array[Math.floor(Math.random() * array.length)]
 }
 
 async function getCorrectDigits(number, arrayOfDigits) {
