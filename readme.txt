@@ -12,8 +12,6 @@ To run please install:
  - Node 10 or higher 
  
 To get all combinations:
-Run the script "get-results" from package.json OR
 Run in terminal, gitBash or console: 
 - npm install
 - npm run get-results
-
